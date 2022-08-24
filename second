@@ -1,0 +1,11 @@
+접속사이트 
+
+https://www.mysql.com/downloads/
+
+
+
+c:\db_data> c:\Program Files\MySQL\MySQL Server 8.0\bin\mysql.exe   -uroot -p --port 3355 < data_setting.sql 
+
+
+
+교재 118페이지 참고입니다
